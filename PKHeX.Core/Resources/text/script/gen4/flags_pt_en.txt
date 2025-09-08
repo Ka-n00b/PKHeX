@@ -64,7 +64,6 @@
 0325	r	Dialga/Palkia rifts spawnable
 1051	s	Found Adamant Orb on Mt. Coronet
 1053	s	Found Lustrous Orb on Mt. Coronet
-2507	s	Entered Pal Park Catching Show
 1409	t	Defeated Jogger Richard (Morning)
 1448	t	Defeated Policeman Bobby (Night)
 1449	t	Defeated Policeman Alex (Night)
