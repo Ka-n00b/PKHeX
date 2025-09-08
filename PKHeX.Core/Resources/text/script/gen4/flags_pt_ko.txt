@@ -1,3 +1,4 @@
+0350	s	Lake Valor Water Restored
 0481	r	유크시 사라짐
 0479	r	엠라이트 (진실호수 동굴) 사라짐
 0480	r	아그놈 사라짐
