@@ -66,9 +66,11 @@
 0387	*	슈퍼트리플배틀 해금됨
 0388	*	슈퍼로테이션배틀 해금됨
 0389	*	슈퍼멀티배틀 해금됨
+2722	s	포켓몬 도감 수령 완료
 2738	*	Foreign DexNav Encounters Unlocked
 0301	s	Defeated Primal Groudon/Kyogre (Story Event)
-2720	s	Entered Hall of Fame
+2720	s	전당등록 완료
+2729	s	에피소드 델타 완료
 0361	s	Rematched Elite Four
 3023	s	Can Give Red Orb and Blue Orb
 0148	s	Met old hot-springs visitor
