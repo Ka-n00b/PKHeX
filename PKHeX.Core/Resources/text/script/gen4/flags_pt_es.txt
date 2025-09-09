@@ -13,6 +13,7 @@
 0461	r	Cynthia desaparecida (Columna Lanza)
 0672	r	Cynthia desaparecida (Fuente Despedida)
 0592	r	Giratina desaparecido
+0289	r	Giratina capturado
 0344	r	Darkrai desaparecido
 0301	r	Professor Oak #1 desaparecido (Ruta 224)
 0594	r	Professor Oak #2 desaparecido (Ruta 224)
@@ -40,6 +41,7 @@
 1262	s	Encontrada MT90 en la Vieja Mansión
 1281	s	Encontrado Caramelo Raro en la Vieja Mansión
 1282	s	Encontrada Perla Grande en la Vieja Mansión
+1336	s	Encontrada Griseosfera en Mundo Distorsión
 1337	s	Encontrado Revestimiento Metálico en Ruinas Hierro
 1338	s	Encontrado Antiderretir en Ruinas Iceberg
 1339	s	Encontrada Roca Dura Ruinas Pico Roca
