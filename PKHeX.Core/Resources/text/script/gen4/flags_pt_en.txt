@@ -24,7 +24,8 @@
 0594	r	Professor Oak (Route 224) #2 Disappeared
 0714	r	Marley (Route 224) Disappeared
 0604	r	Seabreak Path Appeared
-0291	r	Shaymin (Flower Paradise) Disappeared
+0593	r	Shaymin (Flower Paradise) Disappeared
+0291	r	Shaymin Captured
 0286	r	Arceus Disappeared
 0307	r	Fullmoon Island Ferry Accessible
 0316	r	Newmoon Island Ferry Accessible
