@@ -7,6 +7,7 @@
 0621	r	Cresselia(Fullmoon Island) Disappeared
 0288	r	Heatran Captured
 0609	r	Regigigas Disappeared
+0283	r	Regigigas Captured
 0622	r	Giratina Disappeared
 0606	r	Darkrai Disappeared
 0623	r	Shaymin (Flower Paradise) Disappeared
