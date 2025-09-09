@@ -10,6 +10,7 @@
 0293	r	Heatran Luchable
 0288	r	Heatran capturado
 0579	r	Regigigas desaparecido
+0283	r	Regigigas capturado
 0306	r	Sala del Origen Aparecida (Columna Lanza)
 0461	r	Cynthia desaparecida (Columna Lanza)
 0672	r	Cynthia desaparecida (Fuente Despedida)
