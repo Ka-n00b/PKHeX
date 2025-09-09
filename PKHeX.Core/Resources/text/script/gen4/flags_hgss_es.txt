@@ -1,3 +1,4 @@
+0107	s	Pokédex Obtenida
 0607	*	Rojo desaparecido (Monte Plateado)
 0774	r	Articuno desaparecido
 0364	r	Articuno capturado
