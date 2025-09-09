@@ -13,6 +13,7 @@
 0461	r	난천 (창기둥) 사라짐
 0672	r	난천 (송별의샘) 사라짐
 0592	r	기라티나 사라짐
+0289	r	기라티나 잡음
 0344	r	다크라이 사라짐
 0301	r	오박사 (224번도로) #1 사라짐
 0594	r	오박사 (224번도로) #2 사라짐
@@ -40,6 +41,7 @@
 1262	s	숲의양옥집에서 TM90 찾음
 1281	s	숲의양옥집에서 이상한사탕 찾음
 1282	s	숲의양옥집에서 큰진주 찾음
+1336	s	Found Griseous Orb in Distortion World
 1337	s	Found Metal Coat in Iron Ruins
 1338	s	Found Never-Melt Ice in Iceberg Ruins
 1339	s	Found Hard Stone in Rock Peak Ruins
