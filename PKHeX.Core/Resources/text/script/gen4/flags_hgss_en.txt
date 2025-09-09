@@ -1,3 +1,4 @@
+0107	s	Pokédex Obtained
 0607	*	Red (Mt. Silver) Disappeared
 0774	r	Articuno Disappeared
 0364	r	Articuno Caught
