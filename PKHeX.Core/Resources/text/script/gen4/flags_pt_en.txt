@@ -16,7 +16,8 @@
 0672	r	Cynthia (Sendoff Spring) Disappeared
 0592	r	Giratina Disappeared
 0289	r	Giratina Captured
-0344	r	Darkrai Disappeared
+0576	r	Darkrai Disappeared
+0344	r	Darkrai Captured
 0301	r	Professor Oak (Route 224) #1 Disappeared
 0594	r	Professor Oak (Route 224) #2 Disappeared
 0714	r	Marley (Route 224) Disappeared
