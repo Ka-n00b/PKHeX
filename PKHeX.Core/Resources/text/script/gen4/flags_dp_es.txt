@@ -1,3 +1,4 @@
+0318	s	Saturno derrotado en Caverna Valor/Lago Veraz Restaurado
 0350	s	Agua del Lago Valor Restaurada/Can get Palkia/Dialga entry at Celestic Town
 0351	s	Dialga/Palkia Caught
 0482	s	Dialga/Palkia Gone from Spear Pillar
