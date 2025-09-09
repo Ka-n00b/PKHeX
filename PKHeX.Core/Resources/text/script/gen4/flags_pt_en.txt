@@ -1,8 +1,10 @@
 0318	s	Defeated Saturn in Valor Cavern/Lake Verity Restored
 0350	s	Lake Valor Water Restored
 0481	r	Uxie Disappeared
+0295	r	Uxie Captured
 0479	r	Mesprit (Verity Cavern) Disappeared
 0480	r	Azelf Disappeared
+0294	r	Azelf Captured
 0208	r	Dialga Captured
 0209	r	Palkia Captured
 0591	r	Cresselia (Fullmoon Island) Disappeared
