@@ -1,3 +1,4 @@
+0318	s	Defeated Saturn in Valor Cavern/Lake Verity Restored
 0350	s	Lake Valor Water Restored/可以从神和镇获得帝牙卢卡/帕路奇亚图鉴
 0351	s	已捉到帝牙卢卡/帕路奇亚
 0482	s	帝牙卢卡/帕路奇亚离开神和镇
