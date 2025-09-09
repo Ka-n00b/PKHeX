@@ -1,18 +1,29 @@
 0607	*	레드 (은빛산) 사라짐
 0774	r	프리져 사라짐
+0364	r	프리져 잡음
 0663	r	썬더 사라짐
+0330	r	썬더 잡음
 0775	r	파이어 사라짐
+0365	r	파이어 잡음
 0773	r	뮤츠 사라짐
+0363	r	뮤츠 잡음
 0457	r	라이코 배회
 0458	r	엔테이 배회
 0459	s	스이쿤 (불탄탑) 도망침
 0673	s	스이쿤 (25번도로) 사라짐
 0782	r	스이쿤 (불탄탑 재등장) 사라짐
+0373	r	Suicune Caught
 0579	r	루기아 사라짐
+0279	r	Lugia Caught
 0578	r	칠색조 사라짐
+0278	r	Ho-Oh Caught
 0781	r	라티아스/라티오스 (회색시티) 사라짐
-0721	r	가이오가/그란돈 사라짐
+0721	r	가이오가 사라짐 (HG)
+0378	r	가이오가 잡음 (HG)
+0720	r	그란돈 사라짐 (SS)
+0377	r	그란돈 잡음 (SS)
 0722	r	레쿠쟈 사라짐
+0379	r	레쿠쟈 잡음
 2404	a	전당등록 완료 (트레이너 카드 업그레이드)
 0388	a	빛나는나뭇잎 1개 획득 (트레이너 카드 업그레이드)
 0241	a	포켓슬론 신기록 수립 (트레이너 카드 업그레이드)
@@ -24,13 +35,15 @@
 0502	r	Team Rocket HQ Electrode (2) Disappeared
 0503	r	Team Rocket HQ Electrode (3) Disappeared
 0609	r	Sleeping Snorlax Disappeared
+0371	r	잠만보 잡음
 0149	g	Gift Eevee Received 
-0450	r	Route 36 Sudowoodo Disappeared
-0483	r	Red Gyarados Disappeared
+0450	r	36번국도 꼬지모 사라짐
+0361	r	꼬지모 잡음
+0483	r	빨간 갸라도스 사라짐
+0362	r	빨간 갸라도스 잡음
 0191	g	Received Shuckle Gift
 0193	g	Shuckle returned or allowed to keep
 2744	r	Friday Lapras Disappeared
-0362	r	Caught Red Gyarados
 0219	g	Quiz answered wrong (Gift Dratini won't have Extremespeed)
 0220	g	Received Dratini Gift
 0268	g	Received Tyrogue Gift
