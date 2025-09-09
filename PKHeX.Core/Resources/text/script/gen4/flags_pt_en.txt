@@ -10,6 +10,7 @@
 0293	r	Heatran Battleable
 0288	r	Heatran Captured
 0579	r	Regigigas Disappeared
+0283	r	Regigigas Captured
 0306	r	Hall of Origin (Spear Pillar) Appeared
 0461	r	Cynthia (Spear Pillar) Disappeared
 0672	r	Cynthia (Sendoff Spring) Disappeared
