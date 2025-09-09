@@ -1,8 +1,10 @@
 0318	s	Saturno derrotado en Caverna Valor/Lago Veraz Restaurado
 0350	s	Agua del Lago Valor Restaurada
 0481	r	Uxie desaparecido
+0295	r	Uxie capturado
 0479	r	Mesprit desaparecido (Caverna Veraz)
 0480	r	Azelf desaparecido
+0294	r	Azelf capturado
 0208	r	Dialga capturado
 0209	r	Palkia capturado
 0591	r	Cresselia desaparecida (Isla Plenilunio)
@@ -16,7 +18,8 @@
 0672	r	Cynthia desaparecida (Fuente Despedida)
 0592	r	Giratina desaparecido
 0289	r	Giratina capturado
-0344	r	Darkrai desaparecido
+0576	r	Darkrai desaparecido
+0344	r	Darkrai capturado
 0301	r	Professor Oak #1 desaparecido (Ruta 224)
 0594	r	Professor Oak #2 desaparecido (Ruta 224)
 0714	r	Sémola desaparecida (Ruta 224)
