@@ -10,6 +10,7 @@
 0591	r	Cresselia (Fullmoon Island) Disappeared
 0476	r	Charon (Stark Mountain) Disappeared
 0293	r	Heatran Battleable
+0477	r	Heatran Disappeared
 0288	r	Heatran Captured
 0579	r	Regigigas Disappeared
 0283	r	Regigigas Captured
