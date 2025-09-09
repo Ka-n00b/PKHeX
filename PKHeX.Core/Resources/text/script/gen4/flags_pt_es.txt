@@ -10,6 +10,7 @@
 0591	r	Cresselia desaparecida (Isla Plenilunio)
 0476	r	Plutón desaparecido (Montaña Dura)
 0293	r	Heatran Luchable
+0477	r	Heatran desaparecido
 0288	r	Heatran capturado
 0579	r	Regigigas desaparecido
 0283	r	Regigigas capturado
