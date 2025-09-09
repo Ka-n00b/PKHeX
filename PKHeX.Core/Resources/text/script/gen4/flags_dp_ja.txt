@@ -1,3 +1,4 @@
+0318	s	Defeated Saturn in Valor Cavern/Lake Verity Restored
 0350	s	リッシ湖水の回復/Can get Palkia/Dialga entry at Celestic Town
 0351	s	ディアルガ/パルキア捕獲済み
 0482	s	Dialga/Palkia Gone from Spear Pillar
