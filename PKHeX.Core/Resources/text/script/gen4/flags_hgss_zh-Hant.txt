@@ -1,4 +1,4 @@
-2722	s	Pokédex Obtained
+0107	s	Pokédex Obtained
 0607	*	赤紅 (白銀山) 已消失
 0774	r	急凍鳥 已消失
 0364	r	急凍鳥 已捕获
