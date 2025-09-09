@@ -24,8 +24,10 @@
 0594	r	Professor Oak #2 desaparecido (Ruta 224)
 0714	r	Sémola desaparecida (Ruta 224)
 0604	r	Vía Costera Aparecida
-0291	r	Shaymin desaparecido (Paraiso Floral)
-0286	r	Arceus desaparecido
+0593	r	Shaymin desaparecido (Paraiso Floral)
+0291	r	Shaymin capturado
+0590	r	Arceus desaparecido
+0286	r	Arceus capturado (Ilegal)
 0307	r	Ferry a Isla Plenilunio accesible
 0316	r	Ferry a Isla Lunanueva accesible
 0578	r	Professor Oak desaparecido (Ciudad Vetusta)
