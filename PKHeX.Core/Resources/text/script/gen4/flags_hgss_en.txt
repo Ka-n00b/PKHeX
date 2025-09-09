@@ -38,6 +38,7 @@
 0371	r	Snorlax Caught
 0149	g	Gift Eevee Received 
 0450	r	Route 36 Sudowoodo Disappeared
+0361	r	Sudowoodo Captured
 0483	r	Red Gyarados Disappeared
 0362	r	Caught Red Gyarados
 0191	g	Received Shuckle Gift
