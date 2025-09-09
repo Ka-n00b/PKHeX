@@ -5,7 +5,7 @@
 0509	r	Mesprit (Verity Cavern) Disappeared
 0510	r	Azelf Disappeared
 0621	r	Cresselia(Fullmoon Island) Disappeared
-0288	r	Heatran Disappeared
+0288	r	Heatran Captured
 0609	r	Regigigas Disappeared
 0622	r	Giratina Disappeared
 0606	r	Darkrai Disappeared
