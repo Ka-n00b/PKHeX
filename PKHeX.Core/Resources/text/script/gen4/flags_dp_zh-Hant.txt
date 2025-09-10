@@ -43,6 +43,9 @@
 2433	s	2nd Rematch Against Trainers Unlocked
 0251	g	得到小福蛋的蛋
 0305	g	已獲得伊布
+0226	g	Riolu Egg Gift from Riley Pending (Iron Island)
+0229	g	Received Riolu Egg Gift from Riley (Iron Island)
+0515	s	Riley Disappeared from Iron Island
 2430	*	已解鎖水木的電腦
 2728	r	星期五飄飄球已消失
 2722	r	已知今天最自豪的後院寶可夢
