@@ -20,7 +20,6 @@
 0291	r	Shaymin Captured (Illegal)
 0620	r	Arceus Disappeared
 0286	r	Arceus Captured (Illegal)
-0286	r	Hall of Origin Disappeared
 0307	r	Fullmoon Island Ferry Accessible
 0316	r	Newmoon Island Ferry Accessible
 0301	r	Professor Oak (Route 224) Disappeared
