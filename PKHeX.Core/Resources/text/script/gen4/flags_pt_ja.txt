@@ -55,6 +55,9 @@
 1339	s	いわやまのいせきでかたいいし入手
 0151	g	ポリゴン受け取り済み
 0305	g	イーブイ受け取り済み
+0226	g	Riolu Egg Gift from Riley Pending (Iron Island)
+0229	g	Received Riolu Egg Gift from Riley (Iron Island)
+0485	s	Riley Disappeared from Iron Island
 2430	*	『ミズキのパソコン』表記になる
 2433	s	2nd Rematch Against Trainers Unlocked
 2728	r	金曜日のフワンテ戦闘済み
