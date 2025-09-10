@@ -43,6 +43,9 @@
 2433	s	2nd Rematch Against Trainers Unlocked
 0251	g	Huevo Happiny de regalo recibido
 0305	g	Eevee recibido
+0226	g	Riolu Egg Gift from Riley Pending (Iron Island)
+0229	g	Received Riolu Egg Gift from Riley (Iron Island)
+0515	s	Riley Disappeared from Iron Island
 2430	*	PC de Tecla desbloqueado
 2728	r	Drifloon de los viernes desaparecido
 2722	r	Pokémon de hoy en el Jardín Trofeo
