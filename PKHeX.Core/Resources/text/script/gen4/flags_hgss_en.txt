@@ -41,7 +41,7 @@
 0450	r	Route 36 Sudowoodo Disappeared
 0361	r	Sudowoodo Captured
 0483	r	Red Gyarados Disappeared
-0362	r	Captured Red Gyarados
+0362	r	Red Gyarados Captured
 0191	g	Received Shuckle Gift
 0193	g	Shuckle returned or allowed to keep
 2744	r	Friday Lapras Disappeared
