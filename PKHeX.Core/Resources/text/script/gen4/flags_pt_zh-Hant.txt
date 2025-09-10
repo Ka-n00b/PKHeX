@@ -55,6 +55,9 @@
 1339	s	在岩山遺跡找到硬石頭
 0151	g	獲得多邊獸
 0305	g	獲得伊布
+0226	g	Riolu Egg Gift from Riley Pending (Iron Island)
+0229	g	Received Riolu Egg Gift from Riley (Iron Island)
+0485	s	Riley Disappeared from Iron Island
 2430	*	解鎖水木的電腦
 2433	s	2nd Rematch Against Trainers Unlocked
 2728	r	星期五飄飄球已消失
