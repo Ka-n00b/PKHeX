@@ -31,7 +31,7 @@
 2410	a	Cute Contest Master
 2411	a	Smart Contest Master
 2412	a	Tough Contest Master
-0329	r	Rotom Caught
+0329	r	Rotom Captured
 0665	s	Encountered Ghost Butler in Old Chateau
 0666	s	Encountered Ghost Girl in Old Chateau
 0897	s	Found Antidote (hidden) in Old Chateau
