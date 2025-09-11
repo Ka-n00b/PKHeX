@@ -21,7 +21,7 @@
 0620	r	Arceus desaparecido
 0286	r	Arceus capturado (Ilegal)
 0307	r	Ferry a Isla Plenilunio accesible
-0316	r	Ferry a Isla Lunanueva accesible
+0316	r	Ferry a Isla Lunanueva accesible (No lanzado)
 0301	r	Professor Oak desaparecido (Ruta 224)
 0634	r	Shaymin desaparecido
 2404	a	Entrado al Hall de la Fama (Mejora de Tarjeta Entrenador)
