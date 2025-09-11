@@ -10,7 +10,7 @@
 0057	e	Seabreak Path	0:Not appeared,4136:Appeared
 0067	e	Member Card	0:Not Activated,4617:Activated
 0068	e	Oak's Letter	0:Not Activated,4370:Activated
-0069	e	Azure Flute	0:Not Activated,4387:Activated
+0069	e	Azure Flute (Unreleased)	0:Not Activated,4387:Activated
 0070	e	Secret Key	0:Not Activated,4355:Activated
 0248	e	Harbor Inn Event	0:Not Entered,4:Event Completed
 0086	e	Arceus Event Hiker	0:Not Activated,1:In Oreburgh Mine,2:On Canalave Library 2F,3:Event Completed
