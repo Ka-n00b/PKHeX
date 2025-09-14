@@ -1523,7 +1523,7 @@
 2129	t	Psychic Alvaro in Trick House Puzzle 7 defeated
 2130	t	Gentleman Everett in Trick House Puzzle 7 defeated
 
-2186	m	Rain and Harsh Sunlight in Eastern Hoenn
+2186	m	Rain and Harsh Sunlight in eastern Hoenn
 2159	f	Can Fly to Littleroot Town
 2160	f	Can Fly to Oldale Town
 2161	f	Can Fly to Dewford Town
