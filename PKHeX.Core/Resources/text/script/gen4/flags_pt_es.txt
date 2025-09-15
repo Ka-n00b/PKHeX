@@ -21,16 +21,19 @@
 0289	r	Giratina capturado
 0576	r	Darkrai desaparecido
 0344	r	Darkrai capturado
-0301	r	Professor Oak #1 desaparecido (Ruta 224)
-0594	r	Professor Oak #2 desaparecido (Ruta 224)
+0301	r	Wrote text on Route 224 white rock
+0594	r	Professor Oak desaparecido (Ruta 224)
+0604	r	Shaymin desaparecida (Ruta 224)
 0714	r	Sémola desaparecida (Ruta 224)
-0604	r	Vía Costera Aparecida
 0593	r	Shaymin desaparecido (Paraiso Floral)
 0291	r	Shaymin capturado
-0590	r	Arceus desaparecido
+0590	r	Arceus desaparecido (No lanzado)
 0286	r	Arceus capturado (Ilegal)
 0307	r	Ferry a Isla Plenilunio accesible
 0316	r	Ferry a Isla Lunanueva accesible
+2532	r	Visited Newmoon Island
+2517	r	Visited Flower Paradise
+0577	r	Encountered Strange Man in Harbor Inn
 0578	r	Professor Oak desaparecido (Ciudad Vetusta)
 0281	r	Articuno/Zapdos/Moltres Errante (1)
 0153	r	Articuno/Zapdos/Moltres Errante (2)
