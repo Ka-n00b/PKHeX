@@ -13,7 +13,7 @@
 0069	e	Flauta Azur (No lanzado)	0:Sin activar,4387:Activado
 0070	e	Ll. Secreta	0:Sin activar,4387:Activado
 0248	e	Evento de Taberna Bahía	0:Sin Entra,4:Evento Completado
-0280	e	Evento de la Flauta Azur en la Columna Lanza (No lanzado)	0:Desactivado,1:Activo
+0280	e	Evento de Flauta Azur en Columna Lanza (No lanzado)	0:Desactivado,1:Activo
 0086	e	Mochilero del Evento de Arceus	0:Sin activar,1:En Mina Pirita,2:En segundo piso de Biblioteca Canal,3:Evento completado
 0087	e	Evento de Sémola (Ruta 224)	0:Sin activar,1:Puede ser activado,2:Activado
 0133	s	Sémola (Ruta 224)	0:Sin activar,1:Activado,2:Aparecido
