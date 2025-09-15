@@ -1,6 +1,6 @@
 0318	s	Defeated Saturn in Valor Cavern/Lake Verity Restored
 0350	s	Lake Valor Water Restored/Can get Palkia/Dialga entry at Celestic Town
-0351	r	Dialga/Palkia Captured
+0351	s	Dialga/Palkia Captured
 0482	s	Dialga/Palkia Disappeared from Spear Pillar
 0511	r	Uxie Disappeared
 0295	r	Uxie Captured
@@ -14,16 +14,20 @@
 0283	r	Regigigas Captured
 0622	r	Giratina Disappeared
 0289	r	Giratina Captured
-0606	r	Darkrai Disappeared 
+0606	r	Darkrai Disappeared (Unreleased)
 0344	r	Darkrai Captured (Illegal)
-0623	r	Shaymin (Flower Paradise) Disappeared
+0623	r	Shaymin (Flower Paradise) Disappeared (Unreleased)
 0291	r	Shaymin Captured (Illegal)
-0620	r	Arceus Disappeared
+0620	r	Arceus Disappeared (Unreleased)
 0286	r	Arceus Captured (Illegal)
 0307	r	Fullmoon Island Ferry Accessible
 0316	r	Newmoon Island Ferry Accessible (Unreleased)
-0301	r	Professor Oak (Route 224) Disappeared
-0634	r	Shaymin Disappeared
+2532	r	Visited Newmoon Island (Unreleased)
+2517	r	Visited Flower Paradise (Unreleased)
+0607	r	Encountered Strange Man in Harbor Inn (Unreleased)
+0301	r	Wrote text on Route 224 white rock (Unreleased)
+0624	r	Professor Oak (Route 224) Disappeared (Unreleased)
+0634	r	Shaymin (Route 224) Disappeared (Unreleased)
 2404	a	Entered Hall of Fame (Trainer Card Upgrade)
 2408	a	Cool Contest Master
 2409	a	Beauty Contest Master
