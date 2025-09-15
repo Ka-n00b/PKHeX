@@ -1,6 +1,6 @@
 0318	s	Defeated Saturn in Valor Cavern/Lake Verity Restored
 0350	s	Lake Valor Water Restored/Can get Palkia/Dialga entry at Celestic Town
-0351	s	帝牙盧卡/帕路奇亞 已捕獲
+0351	r	帝牙盧卡/帕路奇亞 已捕獲
 0482	s	Dialga/Palkia Gone from Spear Pillar
 0511	r	由克希 已消失
 0295	r	由克希 已捕獲
