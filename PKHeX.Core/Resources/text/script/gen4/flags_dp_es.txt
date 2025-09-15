@@ -1,6 +1,6 @@
 0318	s	Saturno derrotado en Caverna Valor/Lago Veraz Restaurado
 0350	s	Agua del Lago Valor Restaurada/Can get Palkia/Dialga entry at Celestic Town
-0351	s	Dialga/Palkia capturado
+0351	r	Dialga/Palkia capturado
 0482	s	Dialga/Palkia desaparecido del Columna Lanza
 0511	r	Uxie desaparecido
 0295	r	Uxie capturado
