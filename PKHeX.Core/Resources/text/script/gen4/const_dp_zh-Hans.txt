@@ -11,4 +11,5 @@
 0062	r	当前玩家在地下世界互动	32:花岩怪出现了
 0138	e	灵魂之塔	0:未解锁,1:已解锁
 0248	e	码头旅馆事件 (未发行)	0:未进入,4:完成事件
+0280	e	Spear Pillar Azure Flute Event (Unreleased)	0:Inactive,1:Active
 0224	+	伙伴公园最佳成绩
