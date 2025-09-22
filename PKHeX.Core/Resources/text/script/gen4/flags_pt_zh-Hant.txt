@@ -20,7 +20,7 @@
 0592	r	騎拉帝納 已消失
 0289	r	騎拉帝納 已捕獲
 0576	r	達克萊伊 已消失
-0344	r	達克萊伊 已捕獲
+0344	r	達克萊伊 已捕獲/Harbor Inn inaccessible
 0301	r	Wrote text on Route 224 white rock
 0594	r	大木博士 (224號道路) 已消失
 0604	r	謝米 (224號道路) 已消失
