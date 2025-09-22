@@ -15,7 +15,7 @@
 0622	r	Giratina desaparecido
 0289	r	Giratina capturado
 0606	r	Darkrai desaparecido (No lanzado)
-0344	r	Darkrai capturado (Ilegal)
+0344	r	Darkrai capturado/Taberna Bahía inaccesible (Ilegal)
 0623	r	Shaymin desaparecido (Paraiso Floral) (No lanzado)
 0291	r	Shaymin capturado (Ilegal)
 0620	r	Arceus desaparecido (No lanzado)
