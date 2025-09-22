@@ -21,18 +21,18 @@
 0289	r	騎拉帝納 已捕獲
 0576	r	達克萊伊 已消失
 0344	r	達克萊伊 已捕獲/Harbor Inn inaccessible
-0301	r	Wrote text on Route 224 white rock
-0594	r	大木博士 (224號道路) 已消失
-0604	r	謝米 (224號道路) 已消失
-0714	r	米依 (224號道路) 已消失
-0593	r	謝米 (花之樂園) 已消失
-0291	r	謝米 (花之樂園) 已捕獲
+0301	r	Wrote text on Route 224 white rock (韓語未發行)
+0594	r	大木博士 (224號道路) 已消失 (韓語未發行)
+0604	r	謝米 (224號道路) 已消失 (韓語未發行)
+0714	r	米依 (224號道路) 已消失 (韓語未發行)
+0593	r	謝米 (花之樂園) 已消失 (韓語未發行)
+0291	r	謝米 (花之樂園) 已捕獲 (韓語非法)
 0590	r	阿爾宙斯 已消失 (未發行)
 0286	r	阿爾宙斯 已捕獲 (非法的)
 0307	r	滿月島渡輪可使用
 0316	r	新月島渡輪可使用
 2532	r	Visited Newmoon Island
-2517	r	Visited Flower Paradise
+2517	r	Visited Flower Paradise (韓語未發行)
 0577	r	Encountered Strange Man in Harbor Inn
 0578	r	大木博士 (百代市) 已消失
 0281	r	三聖鳥遊走中 (1)
