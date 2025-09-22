@@ -20,7 +20,7 @@
 0592	r	Giratina desaparecido
 0289	r	Giratina capturado
 0576	r	Darkrai desaparecido
-0344	r	Darkrai capturado
+0344	r	Darkrai capturado/Taberna Bahía inaccesible
 0301	r	Wrote text on Route 224 white rock
 0594	r	Professor Oak desaparecido (Ruta 224)
 0604	r	Shaymin desaparecida (Ruta 224)
