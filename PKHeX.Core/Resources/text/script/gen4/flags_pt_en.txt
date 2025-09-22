@@ -21,18 +21,18 @@
 0289	r	Giratina Captured
 0576	r	Darkrai Disappeared
 0344	r	Darkrai Captured/Harbor Inn inaccessible
-0301	r	Wrote text on Route 224 white rock
-0594	r	Professor Oak (Route 224) Disappeared
-0604	r	Shaymin (Route 224) Disappeared
-0714	r	Marley (Route 224) Disappeared
-0593	r	Shaymin (Flower Paradise) Disappeared
-0291	r	Shaymin Captured
+0301	r	Wrote text on Route 224 white rock (Unreleased for Korean-language)
+0594	r	Professor Oak (Route 224) Disappeared (Unreleased for Korean-language)
+0604	r	Shaymin (Route 224) Disappeared (Unreleased for Korean-language)
+0714	r	Marley (Route 224) Disappeared (Unreleased for Korean-language)
+0593	r	Shaymin (Flower Paradise) Disappeared (Unreleased for Korean-language)
+0291	r	Shaymin Captured (Illegal for Korean-language)
 0590	r	Arceus Disappeared (Unreleased)
 0286	r	Arceus Captured (Illegal)
 0307	r	Fullmoon Island Ferry Accessible
 0316	r	Newmoon Island Ferry Accessible
 2532	r	Visited Newmoon Island
-2517	r	Visited Flower Paradise
+2517	r	Visited Flower Paradise (Unreleased for Korean-language)
 0577	r	Encountered Strange Man in Harbor Inn
 0578	r	Professor Oak (Eterna City) Disappeared
 0281	r	Articuno/Zapdos/Moltres Roamed (1)
