@@ -20,7 +20,7 @@
 0592	r	Giratina Disappeared
 0289	r	Giratina Captured
 0576	r	Darkrai Disappeared
-0344	r	Darkrai Captured
+0344	r	Darkrai Captured/Harbor Inn inaccessible
 0301	r	Wrote text on Route 224 white rock
 0594	r	Professor Oak (Route 224) Disappeared
 0604	r	Shaymin (Route 224) Disappeared
