@@ -7,9 +7,9 @@
 0054	e	Fullmoon Island	0:Not Activated,520:On the Map
 0055	e	Newmoon Island	0:Not Activated,553:On the Map
 0056	e	Spring Path	0:Not appeared,786:Appeared
-0057	e	Seabreak Path	0:Not appeared,4136:Appeared
+0057	e	Seabreak Path (Unreleased for Korean-language)	0:Not appeared,4136:Appeared
 0067	e	Member Card	0:Not Activated,4617:Activated
-0068	e	Oak's Letter	0:Not Activated,4370:Activated
+0068	e	Oak's Letter (Unreleased for Korean-language)	0:Not Activated,4370:Activated
 0069	e	Azure Flute (Unreleased)	0:Not Activated,4387:Activated
 0070	e	Secret Key	0:Not Activated,4355:Activated
 0248	e	Harbor Inn Event	0:Not Entered,4:Event Completed
