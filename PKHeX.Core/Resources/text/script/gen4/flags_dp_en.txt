@@ -15,7 +15,7 @@
 0622	r	Giratina Disappeared
 0289	r	Giratina Captured
 0606	r	Darkrai Disappeared (Unreleased)
-0344	r	Darkrai Captured (Illegal)
+0344	r	Darkrai Captured/Harbor Inn inaccessible  (Illegal)
 0623	r	Shaymin (Flower Paradise) Disappeared (Unreleased)
 0291	r	Shaymin Captured (Illegal)
 0620	r	Arceus Disappeared (Unreleased)
