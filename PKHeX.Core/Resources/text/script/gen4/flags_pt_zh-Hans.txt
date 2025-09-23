@@ -31,9 +31,9 @@
 0286	r	阿尔宙斯 已捕获 (非法的)
 0307	r	满月岛渡轮可使用
 0316	r	新月岛渡轮可使用
-2532	r	Visited Newmoon Island
-2517	r	Visited Flower Paradise (韩语未发行)
-0577	r	Encountered Strange Man in Harbor Inn
+0577	r	码头旅馆已到达
+2532	r	新月岛已到达
+2517	r	花之乐园已到达 (韩语未发行)
 0578	r	大木博士 (百代市) 已消失
 0281	r	三圣鸟游走中 (1)
 0153	r	三圣鸟游走中 (2)
