@@ -31,9 +31,9 @@
 0286	r	아르세우스 잡음 (불법적인)
 0307	r	배로 만월섬 이동 가능
 0316	r	배로 신월섬 이동 가능
-2532	r	Visited Newmoon Island
-2517	r	Visited Flower Paradise (한국어 미발매)
-0577	r	Encountered Strange Man in Harbor Inn
+0577	r	항구 숙소 방문함
+2532	r	신월섬 방문함
+2517	r	꽃의 낙원 방문함 (한국어 미발매)
 0578	r	오박사 (영원시티) 사라짐
 0281	r	프리져/썬더/파이어 배회 (1)
 0153	r	프리져/썬더/파이어 배회 (2)
