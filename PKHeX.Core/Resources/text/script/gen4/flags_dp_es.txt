@@ -22,9 +22,9 @@
 0286	r	Arceus capturado (Ilegal)
 0307	r	Ferry a Isla Plenilunio accesible
 0316	r	Ferry a Isla Lunanueva accesible (No lanzado)
-0607	r	Harbor Inn visitada visitada (No lanzado)
-2532	r	Newmoon Island visitada (No lanzado)
-2517	r	Flower Paradise visitada (No lanzado)
+0607	r	Taberna Bahía visitada (No lanzado)
+2532	r	Isla Lunanueva visitada (No lanzado)
+2517	r	Paraíso Floral visitada (No lanzado)
 0301	r	Wrote text on Route 224 white rock (No lanzado)
 0624	r	Professor Oak desaparecido (Ruta 224) (No lanzado)
 0634	r	Shaymin desaparecida (Ruta 224) (No lanzado)
