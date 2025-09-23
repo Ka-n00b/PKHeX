@@ -22,9 +22,9 @@
 0286	r	アルセウス捕獲済み (不正)
 0307	r	まんげつじまへ移動可能
 0316	r	しんげつじまへ移動可能 (未公開)
-2532	r	Visited Newmoon Island (未公開)
-2517	r	Visited Flower Paradise (未公開)
-0607	r	Encountered Strange Man in Harbor Inn (未公開)
+0607	r	はとばのやどに訪れた (未公開)
+2532	r	しんげつじまに訪れた (未公開)
+2517	r	はなのらくえんに訪れた (未公開)
 0301	r	Wrote text on Route 224 white rock(イベント) (未公開)
 0624	r	224ばんどうろのオーキド博士を非表示(イベント) (未公開)
 0634	r	シェイミを非表示(224ばんどうろ？) (未公開)
