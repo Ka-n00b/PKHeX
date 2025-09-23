@@ -22,9 +22,9 @@
 0286	r	阿爾宙斯 已捕獲 (非法的)
 0307	r	滿月島渡輪可使用
 0316	r	新月島渡輪可使用 (未發行)
+0607	r	Visited Harbor Inn (未發行)
 2532	r	Visited Newmoon Island (未發行)
 2517	r	Visited Flower Paradise (未發行)
-0607	r	Encountered Strange Man in Harbor Inn (未發行)
 0301	r	Wrote text on Route 224 white rock (未發行)
 0624	r	大木博士 (224號道路) 已消失 (未發行)
 0634	r	謝米 (224號道路) 已消失 (未發行)
