@@ -28,22 +28,22 @@
 
 0314	e	Received Aurora Ticket from Mystery Gift (Unreleased for Japanese)
 0315	e	Received Mystic Ticket from Mystery Gift
-0316	e	Received Old Sea Map from Mystery Gift (Unreleased for non-Japanese)
+0316	e	Received Old Sea Map from Mystery Gift (Unreleased Internationally)
 
 0430	e	Shown Eon Ticket
 0431	e	Shown Aurora Ticket (Unreleased for Japanese)
-0432	e	Shown Old Sea Map (Unreleased for non-Japanese)
+0432	e	Shown Old Sea Map (Unreleased Internationally)
 0475	e	Shown Mystic Ticket
 
 2227	e	Can Travel to Southern Island
 2261	e	Can Travel to Birth Island (Unreleased for Japanese)
-2262	e	Can Travel to Faraway Island (Unreleased for non-Japanese)
+2262	e	Can Travel to Faraway Island (Unreleased Internationally)
 2272	e	Can Travel to Navel Rock
 
 0255	r	Lati@s Roaming
 
-0455	r	Defeated Mew (Unreleased for non-Japanese)
-0458	r	Captured Mew (Unreleased for non-Japanese)
+0455	r	Defeated Mew (Unreleased Internationally)
+0458	r	Captured Mew (Unreleased Internationally)
 0145	r	Captured Lugia
 0146	r	Captured Ho-Oh
 0476	r	Defeated Ho-Oh
