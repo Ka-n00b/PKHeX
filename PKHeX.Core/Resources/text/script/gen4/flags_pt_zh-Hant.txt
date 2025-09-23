@@ -31,9 +31,9 @@
 0286	r	阿爾宙斯 已捕獲 (非法的)
 0307	r	滿月島渡輪可使用
 0316	r	新月島渡輪可使用
+0577	r	Visited Harbor Inn
 2532	r	Visited Newmoon Island
 2517	r	Visited Flower Paradise (韓語未發行)
-0577	r	Encountered Strange Man in Harbor Inn
 0578	r	大木博士 (百代市) 已消失
 0281	r	三聖鳥遊走中 (1)
 0153	r	三聖鳥遊走中 (2)
