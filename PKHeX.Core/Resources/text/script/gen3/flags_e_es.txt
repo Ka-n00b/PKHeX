@@ -28,22 +28,22 @@
 
 0314	e	Ori-Ticket recibido mediante Regalo Misterioso (No lanzado en Japón)
 0315	e	Misti-Ticket recibido mediante Regalo Misterioso
-0316	e	Mapa Viejo recibido mediante Regalo Misterioso (No lanzado para no japoneses)
+0316	e	Mapa Viejo recibido mediante Regalo Misterioso (No lanzada internacionalmente)
 
 0430	e	Ticket Eón enseñado
 0431	e	Ori-Ticket enseñado (No lanzado en Japón)
-0432	e	Mapa Viejo enseñado (No lanzado para no japoneses)
+0432	e	Mapa Viejo enseñado (No lanzada internacionalmente)
 0475	e	Misti-Ticket enseñado
 
 2227	e	Puede ir a Isla del Sur
 2261	e	Puede ir a Isla Origen (No lanzado en Japón)
-2262	e	Puede ir a Isla Suprema (No lanzado para no japoneses)
+2262	e	Puede ir a Isla Suprema (No lanzada internacionalmente)
 2272	e	Puede ir a Roca Ombligo
 
 0255	r	Lati@s errante
 
-0455	r	Mew derrotado (No lanzado para no japoneses)
-0458	r	Mew capturado (No lanzado para no japoneses)
+0455	r	Mew derrotado (No lanzada internacionalmente)
+0458	r	Mew capturado (No lanzada internacionalmente)
 0145	r	Lugia capturado
 0146	r	Ho-Oh capturado
 0476	r	Ho-Oh derrotado
@@ -59,7 +59,7 @@
 0428	r	Deoxys derrotado (No lanzado en Japón)
 0429	r	Deoxys capturado (No lanzado en Japón)
 
-0x2CE	r	Oculto en el mundo (Mew) (No lanzado para no japoneses)
+0x2CE	r	Oculto en el mundo (Mew) (No lanzada internacionalmente)
 0x320	r	Oculto en el mundo (Lugia)
 0x321	r	Oculto en el mundo (Ho-Oh)
 0x3A7	r	Oculto en el mundo (Regirock)
