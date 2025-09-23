@@ -31,9 +31,9 @@
 0286	r	Arceus capturado (Ilegal)
 0307	r	Ferry a Isla Plenilunio accesible
 0316	r	Ferry a Isla Lunanueva accesible
-2532	r	Visited Newmoon Island
-2517	r	Visited Flower Paradise (No lanzado para el idioma coreano)
-0577	r	Encountered Strange Man in Harbor Inn
+0577	r	Taberna Bahía visitada
+2532	r	Isla Lunanueva visitada
+2517	r	Paraíso Floral visitada (No lanzado para el idioma coreano)
 0578	r	Professor Oak desaparecido (Ciudad Vetusta)
 0281	r	Articuno/Zapdos/Moltres Errante (1)
 0153	r	Articuno/Zapdos/Moltres Errante (2)
