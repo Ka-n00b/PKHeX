@@ -22,9 +22,9 @@
 0286	r	아르세우스 잡음 (불법적인)
 0307	r	배로 만월섬 이동 가능
 0316	r	배로 신월섬 이동 가능 (미발매)
-2532	r	Visited Newmoon Island (미발매)
-2517	r	Visited Flower Paradise (미발매)
-0607	r	Encountered Strange Man in Harbor Inn (미발매)
+0607	r	항구 숙소 방문함 (미발매)
+2532	r	신월섬 방문함 (미발매)
+2517	r	꽃의 낙원 방문함 (미발매)
 0301	r	Wrote text on Route 224 white rock (미발매)
 0624	r	오박사 (224번도로) 사라짐 (미발매)
 0634	r	쉐이미 (224번도로) 사라짐 (미발매)
