@@ -31,9 +31,9 @@
 0286	r	Arceus Captured (Illegal)
 0307	r	Fullmoon Island Ferry Accessible
 0316	r	Newmoon Island Ferry Accessible
+0577	r	Visited Harbor Inn
 2532	r	Visited Newmoon Island
 2517	r	Visited Flower Paradise (Unreleased for Korean-language)
-0577	r	Encountered Strange Man in Harbor Inn
 0578	r	Professor Oak (Eterna City) Disappeared
 0281	r	Articuno/Zapdos/Moltres Roamed (1)
 0153	r	Articuno/Zapdos/Moltres Roamed (2)
