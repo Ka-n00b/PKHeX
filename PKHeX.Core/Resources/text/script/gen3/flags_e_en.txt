@@ -381,7 +381,7 @@
 866	r	Don't spawn Wally in Petalburg Gym
 
 868	r	Don't spawn fat man in Littleroot Town
-869	r	Don't spawnMr. Briney in Stern's Shipyard
+869	r	Don't spawn Mr. Briney in Stern's Shipyard
 870	r	Don't spawn Lanette in her house
 871	r	Don't spawn Lanette in Fallarbor Pokémon Center
 872	r	Don't spawn Trick Master in Trick House Entrance
@@ -479,7 +479,7 @@
 967	r	Don't spawn Steven in his own house
 968	r	Don't spawn Beldum (Pokéball) in Steven's house
 969	r	Don't spawn Kecleon in Fortree City
-970	r	Dont't spawn Kecleon on Route 120 (Bridge)
+970	r	Don't spawn Kecleon on Route 120 (Bridge)
 971	r	Don't spawn Brendan/May in Lilycove City
 972	r	Don't spawn Steven on Route 120
 973	r	Don't spawn Steven in Sootopolis City
