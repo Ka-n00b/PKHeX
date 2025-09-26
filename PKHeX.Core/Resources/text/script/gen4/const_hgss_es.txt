@@ -17,6 +17,6 @@
 0072	r	Estado Latios errante (SS)	0:Pendiente,1:Capturado,2:Derrotado/Puede reaparecer
 0148	+	Total de Hermanos semanales conocidos	0:0,1:1,2:2,3:3,4:4,5:5,6:6,7:7
 0151	s	Hermanas entrenadoras guay (Ruta 34)	0:Sin luchar,1:Iida y Mar derrotadas,2:Hierba única pendiente,3:Lisa derrotada/Hierba única obtenida
-0253	r	Inicial de Hoenn	0:Sin activar,1:Activado
+0253	r	Rojo (Monte Plateado)	0:No Derrotado,1:Derrotado (Inicial de Hoenn Activado)
 0276	s	Tarea de la carta	0:Sin activar,1:Spearow con Carta recibido,2:Carta entregada en la Ruta 31 (Mochila llena),3:Carta entregada en la Ruta 31,5:Quintín da Más PP (Completado)
 0291	+	Mejor puntuación capturas en Parque Compi
