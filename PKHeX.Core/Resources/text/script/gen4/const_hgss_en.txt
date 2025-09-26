@@ -1,5 +1,5 @@
 0048	*	Starter	0:Not Chosen,152:Chikorita,155:Cyndaquil,158:Totodile
-0299	r	Spiky-eared Pichu (Ilex Forest)	0:Not appeared,1:Pending,2:Disappeared
+0299	r	Spiky-eared Pichu (Ilex Forest)	0:Not Activated,1:Pending,2:Obtained
 0161	r	Beasts (Burned Tower)	0:Appeared,1:Roaming/Fled
 0304	s	Steven Stone Status	0:Clefairy Doll pending,1:Will meet in Vermilion (Lati@s Pending),2:Met (Lati@s Roamed),3:Asks to choose Hoenn Starter,4:Gave Hoenn Starter,5:Talked to at Pewter Museum,6:Wants to trade at Silph Co.,7:Traded for Beldum
 0067	e	Enigma Stone	0:Not Activated,1778:Activated
