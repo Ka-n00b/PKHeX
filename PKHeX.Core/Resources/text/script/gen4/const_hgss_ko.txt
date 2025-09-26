@@ -1,5 +1,5 @@
 0048	*	스타팅 포켓몬	0:없음,152:치코리타,155:브케인,158:리아코
-0299	r	삐죽귀 피츄 (너도밤나무숲)	0:나타나기 전,1:대기 중,2:사라짐
+0299	r	삐죽귀 피츄 (너도밤나무숲)	0:활성화되지 않음,1:대기 중,2:획득했다
 0161	r	전설의 개 (불탄탑)	0:나타남,1:배회/도망침
 0304	s	Steven Stone Status	0:Clefairy Doll pending,1:Will meet in Vermilion (Lati@s Pending),2:Met (Lati@s Roamed),3:Asks to choose Hoenn Starter,4:Gave Hoenn Starter,5:Talked to at Pewter Museum,6:Wants to trade at Silph Co.,7:Traded for Beldum
 0067	e	수수께끼의수정	0:활성화되지 않음,1778:활성화됨
