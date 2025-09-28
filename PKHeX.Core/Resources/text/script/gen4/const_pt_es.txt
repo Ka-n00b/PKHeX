@@ -7,9 +7,9 @@
 0054	e	Isla Plenilunio	0:Sin activar,520:En el mapa
 0055	e	Isla Lunanueva	0:Sin activar,553:En el mapa
 0056	e	Vía Manantial	0:Sin aparecer,786:Aparecida
-0057	e	Vía Costera (No lanzado para el idioma coreano)	0:Sin aparecer,4136:Aparecida
+0057	e	Vía Costera (No lanzado en Coreano)	0:Sin aparecer,4136:Aparecida
 0067	e	Carné Socio	0:Sin activar,4617:Activado
-0068	e	Carta Prof Oak (No lanzado para el idioma coreano)	0:Sin activar,4370:Activado
+0068	e	Carta Prof Oak (No lanzado en Coreano)	0:Sin activar,4370:Activado
 0069	e	Flauta Azur (No lanzado)	0:Sin activar,4387:Activado
 0070	e	Ll. Secreta	0:Sin activar,4387:Activado
 0248	e	Evento de Taberna Bahía	0:No completado,2:Darkrai Capture Pending,3:Sailor outside Inn (Darkrai capturado),4:Completado (Caught Darkrai during nightmare)
