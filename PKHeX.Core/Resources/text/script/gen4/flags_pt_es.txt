@@ -21,19 +21,19 @@
 0289	r	Giratina capturado
 0576	r	Darkrai desaparecido
 0344	r	Darkrai capturado/Taberna Bahía inaccesible
-0301	r	Wrote text on Route 224 white rock (No lanzado para el idioma coreano)
-0594	r	Professor Oak desaparecido (Ruta 224) (No lanzado para el idioma coreano)
-0604	r	Shaymin desaparecida (Ruta 224) (No lanzado para el idioma coreano)
-0714	r	Sémola desaparecida (Ruta 224) (No lanzado para el idioma coreano)
-0593	r	Shaymin desaparecido (Paraiso Floral) (No lanzado para el idioma coreano)
-0291	r	Shaymin capturado (Ilegal para el idioma coreano)
+0301	r	Wrote text on Route 224 white rock (No lanzado en Coreano)
+0594	r	Professor Oak desaparecido (Ruta 224) (No lanzado en Coreano)
+0604	r	Shaymin desaparecida (Ruta 224) (No lanzado en Coreano)
+0714	r	Sémola desaparecida (Ruta 224) (No lanzado en Coreano)
+0593	r	Shaymin desaparecido (Paraiso Floral) (No lanzado en Coreano)
+0291	r	Shaymin capturado (Ilegal en Coreano)
 0590	r	Arceus desaparecido (No lanzado)
 0286	r	Arceus capturado (Ilegal)
 0307	r	Ferry a Isla Plenilunio accesible
 0316	r	Ferry a Isla Lunanueva accesible
 0577	r	Taberna Bahía visitada
 2532	r	Isla Lunanueva visitada
-2517	r	Paraíso Floral visitada (No lanzado para el idioma coreano)
+2517	r	Paraíso Floral visitada (No lanzado en Coreano)
 0578	r	Professor Oak desaparecido (Ciudad Vetusta)
 0281	r	Articuno/Zapdos/Moltres Errante (1)
 0153	r	Articuno/Zapdos/Moltres Errante (2)
