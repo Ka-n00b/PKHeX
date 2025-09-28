@@ -26,13 +26,13 @@
 0x10A	g	獲得小果然的蛋
 0x12A	g	獲得鐵啞鈴
 
-0x13A	e	從神秘禮物中獲得極光船票 (Unreleased for Japanese)
+0x13A	e	從神秘禮物中獲得極光船票 (未在日語中發佈)
 0x13B	e	從神秘禮物中獲得神秘船票
-0x13C	e	從神秘禮物中獲得古航海圖 (Unreleased Internationally)
+0x13C	e	從神秘禮物中獲得古航海圖 (未在全球發佈)
 
 0x1AE	e	顯示無限船票
-0x1AF	e	顯示極光船票 (Unreleased for Japanese)
-0x1B0	e	顯示古航海圖 (Unreleased Internationally)
+0x1AF	e	顯示極光船票 (未在日語中發佈)
+0x1B0	e	顯示古航海圖 (未在全球發佈)
 0x1DB	e	顯示神秘船票
 
 0x8B3	e	可以前往南方孤島
