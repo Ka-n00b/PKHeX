@@ -1,11 +1,18 @@
 0669	r	等離子隊 (聯盟寶可夢中心) 已消失
 0661	r	萊希拉姆/捷克羅姆(N的城堡) 已消失
+0307	r	萊希拉姆/捷克羅姆 已捕獲
 0766	r	萊希拉姆/捷克羅姆(龍螺旋之塔) 已消失
+0338	r	酋雷姆 已捕獲
 0801	r	酋雷姆 已消失
+0348	r	火神蛾 已捕獲
 0810	r	火神蛾 已消失
+0166	r	勾帕路翁 已捕獲
 0649	r	勾帕路翁 已消失
+0167	r	代拉基翁 已捕獲
 0650	r	代拉基翁 已消失
+0168	r	畢力吉翁 已捕獲
 0651	r	畢力吉翁 已消失
+0313	r	土地雲 已捕獲
 0652	s	障礙 (冠軍之路) 已清除
 0653	s	障礙 (矢車森林) 已清除
 2403	*	得到跑步鞋
@@ -40,3 +47,5 @@
 0770	r	Route 10 Capture/Defeat Amoongus (2)
 0771	r	Route 10 Capture/Defeat Foongus (1)
 0772	r	Route 10 Capture/Defeat Foongus (2)
+2748	r	Dreamyard Musharna Disappeared (Friday)
+1372	s	Found Relic Crown (Abyssal Ruins 4F)
