@@ -2,6 +2,7 @@
 0182	r	N的城堡	0:事件,1:事件,2:在萊希拉姆/捷克羅姆前,3:在N前,4:事件,5:在魁奇思前
 0145	r	比克提尼	0:,1:事件,2:可對戰,3:已擊倒,4:已捕獲,5:事件完成,6:消失
 0206	r	土地雲	0:事件,1:事件,2:事件,3:可對戰,4:消失
+0216	r	Kyurem Cave (Giant Casm)	0:Accessible,1:Access Resettable,2:Inaccessible (Captured Kyurem)
 0056	r	Lostlorn Forest	0:Zoroark illusion (1),1032:Normal
 0131	g	Dreamyard girl	0:Not interacted,1:Elemental Monkey Pending,2:Received Elemental Monkey
 0199	r	Zorua Event	0:Disguised as little boy (1),1:Revealed/Catchable (2),3:Caught
