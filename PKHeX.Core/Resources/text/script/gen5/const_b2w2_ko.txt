@@ -2,6 +2,7 @@
 0077	s	하일링크	6:튜토리얼 완료
 0143	r	P2 Laboratory Event	0:Not Activated,1:Activated,2:Scientist Dudley Battle Pending,3:Received Drives
 0268	r	라티아스/라티오스	5:배틀 가능,6:사라짐
+0283	r	레시라무/제크로무 (용나선탑)	0:활성화되지 않음,1:활성화 가능,2:활성화됨
 0291	s	N's Zoroark (Victory Road)	0:Blocks further access (Pre-Champion),1:Wants you to follow (Post-Champion),2:On the outside cliff,3:In front of N's Castle,4:Went into N's Castle
 0294	e	Yancy/Curtis Call (Nimbasa City)	0:Inactive,1:Active,2:Activated
 0295	e	Yancy/Curtis Call (Driftveil City)	0:Inactive,1:Active,2:Activated
