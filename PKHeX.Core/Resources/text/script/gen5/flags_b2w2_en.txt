@@ -12,7 +12,7 @@
 0404	r	Volcarona Defeated (Level 35)
 0234	r	Reshiram/Zekrom Captured
 0667	r	Reshiram/Zekrom Disappeared
-0439	r	Kyurem Captured
+0249	r	Kyurem Captured
 1004	r	Kyurem Disappeared
 0399	r	Regirock Captured
 0922	r	Regirock Disappeared
