@@ -1,7 +1,9 @@
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Windows.Forms;
 using PKHeX.Core;
+using PKHeX.Drawing.Misc;
 using PKHeX.Drawing.PokeSprite;
 
 namespace PKHeX.WinForms;
@@ -11,7 +13,26 @@ public sealed partial class DonutEditor9a : UserControl
     private Donut9a _donut;
     public event EventHandler? ValueChanged;
 
-    public DonutEditor9a() => InitializeComponent();
+    private readonly ComboBox[] Berry;
+    private readonly PictureBox[] BerryIcons;
+    private readonly ComboBox[] Flavor;
+    private readonly PictureBox[] FlavorIcons;
+    private readonly PictureBox[] Stars;
+
+    private bool Loading;
+
+    private static readonly DateTime Epoch = new(1900, 1, 1);
+
+    public DonutEditor9a()
+    {
+        InitializeComponent();
+
+        Berry = [CB_Berry0, CB_Berry1, CB_Berry2, CB_Berry3, CB_Berry4, CB_Berry5, CB_Berry6, CB_Berry7, CB_Berry8];
+        BerryIcons = [PB_Berry0, PB_Berry1, PB_Berry2, PB_Berry3, PB_Berry4, PB_Berry5, PB_Berry6, PB_Berry7, PB_Berry8];
+        Flavor = [CB_Flavor0, CB_Flavor1, CB_Flavor2];
+        FlavorIcons = [PB_Flavor0, PB_Flavor1, PB_Flavor2];
+        Stars = [PB_Star1, PB_Star2, PB_Star3, PB_Star4, PB_Star5];
+    }
 
     public void InitializeLists(ReadOnlySpan<string> flavors, ReadOnlySpan<string> items, ReadOnlySpan<string> donutNames)
     {
@@ -19,18 +40,14 @@ public sealed partial class DonutEditor9a : UserControl
         var flavorList = GetFlavorText(flavors, items[0]);
         var donutList = GetDonutList(donutNames);
 
-        ComboBox[] berry = [CB_Berry0, CB_Berry1, CB_Berry2, CB_Berry3, CB_Berry4, CB_Berry5, CB_Berry6, CB_Berry7, CB_Berry8];
-        PictureBox[] icons = [PB_Berry0, PB_Berry1, PB_Berry2, PB_Berry3, PB_Berry4, PB_Berry5, PB_Berry6, PB_Berry7, PB_Berry8];
-        ComboBox[] flavor = [CB_Flavor0, CB_Flavor1, CB_Flavor2];
-
         InitializeEvents([NUD_Calories, NUD_LevelBoost, NUD_Stars]);
-        InitializeEvents(berry);
-        InitializeEvents(flavor);
+        InitializeEvents(Berry);
+        InitializeEvents(Flavor);
 
-        for (var i = 0; i < berry.Length; i++)
+        for (var i = 0; i < Berry.Length; i++)
         {
-            var cb = berry[i];
-            var pb = icons[i];
+            var cb = Berry[i];
+            var pb = BerryIcons[i];
             SetDataSource(cb, berryList);
             cb.SelectedValueChanged += (_, _) =>
             {
@@ -44,15 +61,24 @@ public sealed partial class DonutEditor9a : UserControl
             };
         }
 
-        foreach (var cb in flavor)
+        foreach (var cb in Flavor)
             SetDataSource(cb, flavorList);
         SetDataSource(CB_Donut, donutList);
 
         CB_Donut.SelectedIndexChanged += OnValueChanged;
+        CB_Donut.SelectedIndexChanged += CB_Donut_SelectedIndexChanged;
 
-        // Not really necessary to indicate value changes (name wouldn't be different), but for consistency...
+        // Not really necessary to indicate value changes (name wouldn't be different), but for consistency and GUI updates...
         CAL_Date.ValueChanged += OnValueChanged;
-        TB_Unknown.TextChanged += OnValueChanged;
+        CAL_Date.ValueChanged += ChangeDateTime;
+        TB_Milliseconds.TextChanged += OnValueChanged;
+        TB_Milliseconds.TextChanged += ChangeMilliseconds;
+        NUD_Stars.ValueChanged += OnValueChanged;
+        NUD_Stars.ValueChanged += NUD_Stars_ValueChanged;
+        // flavor already set via InitializeEvents
+        CB_Flavor0.SelectedIndexChanged += CB_Flavor_SelectedIndexChanged;
+        CB_Flavor1.SelectedIndexChanged += CB_Flavor_SelectedIndexChanged;
+        CB_Flavor2.SelectedIndexChanged += CB_Flavor_SelectedIndexChanged;
     }
 
     private static void SetDataSource<T>(ComboBox cb, List<T> list)
@@ -111,10 +137,9 @@ public sealed partial class DonutEditor9a : UserControl
         return result;
     }
 
-    private static readonly DateTime Epoch = new(1900, 1, 1);
-
     public void LoadDonut(Donut9a donut)
     {
+        Loading = true;
         _donut = donut;
 
         LoadClamp(NUD_Stars, donut.Stars);
@@ -122,6 +147,8 @@ public sealed partial class DonutEditor9a : UserControl
         LoadClamp(NUD_LevelBoost, donut.LevelBoost);
 
         CB_Donut.SelectedValue = (int)donut.Donut;
+
+        LoadDonutStarCount(donut.Stars); // acknowledge existing star count
 
         CB_Berry0.SelectedValue = (int)donut.BerryName;
         CB_Berry1.SelectedValue = (int)donut.Berry1;
@@ -137,6 +164,8 @@ public sealed partial class DonutEditor9a : UserControl
         LoadDonutFlavorHash(CB_Flavor1, donut.Flavor1);
         LoadDonutFlavorHash(CB_Flavor2, donut.Flavor2);
 
+        LoadDonutFlavorImages(donut.GetFlavors());
+
         DateTime dt;
         if (!donut.HasDateTime())
             dt = Epoch;
@@ -151,8 +180,9 @@ public sealed partial class DonutEditor9a : UserControl
             CAL_Date.Value = Epoch;
         }
 
-        TB_Unknown.Text = donut.Unknown.ToString();
+        TB_Milliseconds.Text = donut.MillisecondsSince1900.ToString();
 
+        Loading = false;
         return;
 
         static void LoadClamp(NumericUpDown nud, decimal value) => nud.Value = Math.Clamp(value, nud.Minimum, nud.Maximum);
@@ -201,7 +231,7 @@ public sealed partial class DonutEditor9a : UserControl
                 donut.ClearDateTime();
             }
         }
-        donut.Unknown = ulong.TryParse(TB_Unknown.Text, out var unk) ? unk : 0;
+        donut.MillisecondsSince1900 = ulong.TryParse(TB_Milliseconds.Text, out var unk) ? unk : 0;
     }
 
     private static void LoadDonutFlavorHash(ComboBox cb, ulong flavorHash)
@@ -229,11 +259,122 @@ public sealed partial class DonutEditor9a : UserControl
         return hash;
     }
 
+    private void LoadDonutFlavorImages(params ReadOnlySpan<ulong> flavors)
+    {
+        for (int i = 0; i < FlavorIcons.Length; i++)
+        {
+            Image? img;
+            if (flavors[i] != 0 && DonutInfo.TryGetFlavorName(flavors[i], out var name))
+                img = DonutSpriteUtil.GetDonutFlavorImage(name);
+            else
+                img = null;
+            FlavorIcons[i].Image = img;
+        }
+    }
+
+    private void LoadDonutStarCount(byte count)
+    {
+        var star = DonutSpriteUtil.StarSprite;
+        for (int i = 0; i < Stars.Length; i++)
+            Stars[i].Image = i < count ? star : null;
+    }
+
+    private void CB_Donut_SelectedIndexChanged(object? sender, EventArgs e)
+    {
+        _donut.Donut = (ushort)CB_Donut.SelectedIndex;
+        PB_Donut.Image = _donut.Sprite();
+    }
+
+    private void CB_Flavor_SelectedIndexChanged(object? sender, EventArgs e)
+    {
+        if (sender is not ComboBox cb)
+            return;
+        var index = Array.IndexOf(Flavor, cb);
+        if (index < 0)
+            return;
+        var text = cb.SelectedIndex > 0 ? cb.SelectedValue?.ToString() : null;
+        FlavorIcons[index].Image = text is null ? null : DonutSpriteUtil.GetDonutFlavorImage(text);
+    }
+
     public void Reset()
     {
         _donut.Clear();
         LoadDonut(_donut);
     }
+
+    private void ChangeMilliseconds(object? sender, EventArgs e)
+    {
+        if (Loading)
+            return;
+
+        if (!ulong.TryParse(TB_Milliseconds.Text, out var ms))
+            return;
+
+        try
+        {
+            var ticks = Epoch.AddMilliseconds(ms);
+
+            // If date is same, don't update the ticks.
+            var date = CAL_Date.Value;
+            if (IsDateEquivalent(date, ticks))
+                return;
+
+            Loading = true;
+            CAL_Date.Value = ticks;
+            Loading = false;
+        }
+        catch
+        {
+            // Why are you putting ugly values??
+            // Reset.
+            Loading = true;
+            CAL_Date.Value = DateTime.Now;
+            TB_Milliseconds.Text = ((ulong)(CAL_Date.Value - Epoch).TotalMilliseconds).ToString();
+            Loading = false;
+        }
+    }
+
+    private void ChangeDateTime(object? sender, EventArgs e)
+    {
+        if (Loading)
+            return;
+
+        if (!ulong.TryParse(TB_Milliseconds.Text, out var ms))
+            return;
+
+        try
+        {
+            var ticks = Epoch.AddMilliseconds(ms);
+
+            // If date is same, don't update the ticks.
+            var date = CAL_Date.Value;
+            if (IsDateEquivalent(date, ticks))
+                return;
+
+            var delta = ((ulong)(date - Epoch).TotalMilliseconds);
+            // retain existing ticks _xxx component, since datetime picker does not configure millis
+            var exist = ms % 1000;
+            delta -= delta % 1000;
+            delta += exist;
+
+            Loading = true;
+            TB_Milliseconds.Text = delta.ToString();
+            Loading = false;
+        }
+        catch
+        {
+            // Why are you putting ugly values??
+            // Reset.
+            Loading = true;
+            CAL_Date.Value = DateTime.Now;
+            TB_Milliseconds.Text = ((ulong)(CAL_Date.Value - Epoch).TotalMilliseconds).ToString();
+            Loading = false;
+        }
+    }
+
+    private static bool IsDateEquivalent(DateTime a, DateTime b) =>
+        a.Year == b.Year && a.Month == b.Month && a.Day == b.Day &&
+        a.Hour == b.Hour && a.Minute == b.Minute && a.Second == b.Second;
 
     // bubble up to the parent control, if subscribed.
     private void OnValueChanged(object? sender, EventArgs e) => ValueChanged?.Invoke(this, EventArgs.Empty);
@@ -241,4 +382,7 @@ public sealed partial class DonutEditor9a : UserControl
     // ReSharper disable NotAccessedPositionalProperty.Local
     private sealed record ComboText(string Text, string Value);
     // ReSharper enable NotAccessedPositionalProperty.Local
+    public string GetDonutName() => CB_Donut.Text;
+
+    private void NUD_Stars_ValueChanged(object? sender, EventArgs e) => LoadDonutStarCount((byte)NUD_Stars.Value);
 }
